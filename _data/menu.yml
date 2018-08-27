@@ -1,11 +1,14 @@
-- title: "Research"
-  href: "/research/"
+#- title: "Research"
+#  href: "/research/"
 
-- title: "CV"
-  href: "/cv/"
+#- title: "CV"
+#  href: "/cv/"
 
 #- title: "Misc"  
 #href: "/misc/"
+
+#- title: "Blog"
+#  href: "/blog/"
 
 #- title: "Submenu"
 #  subcategories:
@@ -20,5 +23,4 @@
    - subtitle: "2018 Fall"
      subhref: "/group_meeting/2018Fall/"
 
-#- title: "Blog"
-#  href: "/blog/"
+
