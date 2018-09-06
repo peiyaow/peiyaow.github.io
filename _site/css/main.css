@@ -529,8 +529,7 @@ ul.listing li.listing-item a {
     margin-right: auto;
     float: none; } }
 table {
-  table-layout: auto;
-  white-space: nowrap; }
+  table-layout: auto; }
 
 table.row-Date {
   width: 5%; }
