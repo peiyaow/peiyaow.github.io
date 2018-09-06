@@ -528,3 +528,16 @@ ul.listing li.listing-item a {
     margin-left: auto;
     margin-right: auto;
     float: none; } }
+table {
+  table-layout: fixed;
+  width: 100%;
+  white-space: nowrap; }
+
+table.row-Date {
+  width: 10%; }
+
+table.row-Name {
+  width: 20%; }
+
+table.row-Presentation {
+  width: 70%; }
