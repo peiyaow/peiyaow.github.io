@@ -539,10 +539,10 @@ td {
   text-overflow: ellipsis; }
 
 table.row-Date {
-  width: 5%; }
+  width: 10%; }
 
 table.row-Name {
-  width: 5%; }
+  width: 10%; }
 
 table.row-Presentation {
-  width: 30%; }
+  width: 80%; }
