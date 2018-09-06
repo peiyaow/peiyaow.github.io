@@ -532,12 +532,3 @@ table {
   table-layout: fixed;
   width: 100%;
   white-space: nowrap; }
-
-table.row-Date {
-  width: 10%; }
-
-table.row-Name {
-  width: 20%; }
-
-table.row-Presentation {
-  width: 70%; }
