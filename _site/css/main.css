@@ -530,11 +530,11 @@ ul.listing li.listing-item a {
     float: none; } }
 table {
   table-layout: fixed;
-  width: 80%;
+  width: 50%;
   white-space: nowrap; }
 
 table.row-Date {
-  width: 10%; }
+  width: 8%; }
 
 table.row-Name {
   width: 10%; }
