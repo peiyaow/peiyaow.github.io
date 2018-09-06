@@ -56,14 +56,14 @@ $desktop:          50em;
 table {
   table-layout: fixed;
   width: 60%;
-  white-space: nowrap;
+//  white-space: nowrap;
 } 
 
-td {
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
+// td {
+//   white-space: nowrap;
+//   overflow: hidden;
+//   text-overflow: ellipsis;
+// }
 
 table.row-Date {
   width: 10%;
