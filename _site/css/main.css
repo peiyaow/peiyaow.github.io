@@ -530,14 +530,14 @@ ul.listing li.listing-item a {
     float: none; } }
 table {
   table-layout: fixed;
-  width: 40%;
+  width: 100%;
   white-space: nowrap; }
 
-table.row-Date {
-  width: 5%; }
+thead th:nth-child(1) {
+  width: 7%; }
 
-table.row-Name {
-  width: 10%; }
+thead th:nth-child(2) {
+  width: 13%; }
 
-table.row-Presentation {
+thead th:nth-child(3) {
   width: 80%; }
