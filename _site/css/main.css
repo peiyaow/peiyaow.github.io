@@ -528,11 +528,6 @@ ul.listing li.listing-item a {
     margin-left: auto;
     margin-right: auto;
     float: none; } }
-table {
-  table-layout: fixed;
-  width: 100%;
-  white-space: nowrap; }
-
 table.row-Date {
   width: 5%; }
 
