@@ -53,15 +53,16 @@ $desktop:          50em;
     "fancy-image"
 ;
 
-table.wide {
-  width: 100%;
-  max-width: 100%;
+table.row-Date {
+  width: 10%;
 }
 
-table.inner-borders {
-  border-collapse: collapse;
-  border-style: hidden;
-  td {
-    border: 1px solid #5e5e5e;
-  }
+table.row-Name {
+  width: 20%;
 }
+
+table.row-Presentation {
+  width: 70%;
+}
+
+
