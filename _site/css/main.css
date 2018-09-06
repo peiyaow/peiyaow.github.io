@@ -528,3 +528,12 @@ ul.listing li.listing-item a {
     margin-left: auto;
     margin-right: auto;
     float: none; } }
+table.wide {
+  width: 100%;
+  max-width: 100%; }
+
+table.inner-borders {
+  border-collapse: collapse;
+  border-style: hidden; }
+  table.inner-borders td {
+    border: 1px solid #5e5e5e; }
