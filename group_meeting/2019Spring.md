@@ -10,9 +10,9 @@ Time: 3:00 - 5:00pm
 
 | Date    | Name       | Presentation |
 | :----   | :----------|:--------     |
-| 1/11    | No Meeting   ||
-| 1/18    |No Meeting   | |
-| 1/25    | No Meeting |  |
+| 1/11    | No Meeting   | Cancelled Due to Job Talk |
+| 1/18    | No Meeting   | Cancelled Due to Job Talk |
+| 1/25    | No Meeting | Cancelled Due to Job Talk |
 | 2/1    | Weibin |  | 
 | 2/8    |  Zhengling  |       |
 | 2/15    | Jianyu |       |
