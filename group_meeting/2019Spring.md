@@ -10,33 +10,21 @@ Time: 3:00 - 5:00pm
 
 | Date    | Name       | Presentation |
 | :----   | :----------|:--------     |
-| 8/31    | Jialu      |[Robust Variable and Interaction Selection for Logistic Regression and General Index Models]|
-| 9/7     | Peiyao     | Project Update |
-| 9/14    | No Meeting | Canceled due to hurricane |
-| 9/21    | No Meeting | Yufeng out of town | 
-| 9/28    | Weibin     |[Variance-based regularization with convex objectives]                |
-|		  |            |[Empirical Bernstein Bounds and Sample Variance Penalization]|
-| 10/5    | Zhengling  | Research Update        |
-| 10/12   | Jianyu     |[Graphical Models for Non-Negative Data Using Generalized Score Matching]|
-| 10/19   | No Meeting | Fall Break |
-| 10/26   | Haodong    |[Random-projection ensemble classification]({{ site.url }}/paper/1504.04595.pdf)|
-| 11/2    | Yiyun      |[High dimensional semiparametric latent graphical model for mixed data]({{ site.url }}/paper/rssb.12168.pdf)|
-| 11/9    | Yiwei      | Project Update |
-| 11/16   | Jialu      | Project Update |
-| 11/23   | No Meeting |  Thanksgiving   |
-| 11/30   | Weibin     |[Learning Models with Uniform Performance via Distributionally Robust Optimization]({{ site.url }}/paper/Learning Models with Uniform Performance via Distributionally Robust Optimization.pdf)|
-| 12/7    | Peiyao     |[Robust high dimensional factor models with applications to statistical machine learning]({{ site.url }}/paper/1808.03889.pdf)          |
-
-<!-- 
-| 10/26   | Jialu      |             |
-| 11/2    | Peiyao     |            |
-| 11/9    | Weibin     |           |
-| 11/23   | No Meeting |  Thanksgiving   |
-| 11/30   | Zhengling  |            |
-| 12/7    | Jianyu     |            |
- -->
-
-[Robust Variable and Interaction Selection for Logistic Regression and General Index Models]: https://www.tandfonline.com/doi/pdf/10.1080/01621459.2017.1401541?needAccess=true
-[Variance-based regularization with convex objectives]: https://arxiv.org/pdf/1610.02581.pdf
-[Empirical Bernstein Bounds and Sample Variance Penalization]: https://arxiv.org/pdf/0907.3740.pdf
-[Graphical Models for Non-Negative Data Using Generalized Score Matching]: http://proceedings.mlr.press/v84/yu18b/yu18b.pdf
+| 1/11    | No Meeting   ||
+| 1/18    |No Meeting   | |
+| 1/25    | No Meeting |  |
+| 2/1    | Weibin |  | 
+| 2/8    |  Zhengling  |       |
+| 2/15    | Jianyu |       |
+| 2/22   |  Haodong  ||
+| 3/1   | Yiyun | |
+| 3/8   |  Yiwei ||
+| 3/15    |  No Meeting  | Spring Break |
+| 3/22    | David |  |
+| 3/29   | Jialu |  |
+| 4/5   | Peiyao |  |
+| 4/12   |  Weibin  | |
+| 4/19    | No Meeting | Good Friday |
+| 4/26    | Zhengling |          |
+| 5/3    | Jianyu |       |
+| 5/10    | Haodong  |        |
