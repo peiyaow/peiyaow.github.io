@@ -18,8 +18,8 @@
 #      subhref: "/misc/item-2/"
 
 - title: "Yufeng's Group Meeting"
-  #href: "/group_meeting/"
-  subcategories:
+  href: "/group_meeting/"
+  #subcategories:
    - subtitle: "2018 Fall"
      subhref: "/group_meeting/2018Fall/"
    - subtitle: "2019 Spring"
