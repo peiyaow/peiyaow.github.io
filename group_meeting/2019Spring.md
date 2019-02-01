@@ -16,19 +16,19 @@ Note that the time for the job talks in the first three weeks is 3:30 pm - 4:30 
 | 1/11    | Job Talk   | [https://stat-or.unc.edu/event/stor-colloquium-bikram-karmakar](https://stat-or.unc.edu/event/stor-colloquium-bikram-karmakar) |
 | 1/18    | Job Talk   |  [https://stat-or.unc.edu/event/stor-colloquium-vince-lyzinski](https://stat-or.unc.edu/event/stor-colloquium-vince-lyzinski) |
 | 1/25    | Job Talk | [https://stat-or.unc.edu/event/stor-colloquium-geoffrey-schiebinger](https://stat-or.unc.edu/event/stor-colloquium-geoffrey-schiebinger) |
-| 2/1    | Jianyu |  | 
-| 2/8    |  Haodong  |       |
-| 2/15    | Yiyun |       |
-| 2/22   |  Yiwei  ||
-| 3/1   | Zhengling | |
-| 3/8   |  David ||
+| 2/1    | No Meeting | Cancelled | 
+| 2/8    |  Jianyu |       |
+| 2/15    | Haodong|       |
+| 2/22   |  Yiyun ||
+| 3/1   |Yiwei | |
+| 3/8   |  Zhengling||
 | 3/15    |  No Meeting  | Spring Break |
-| 3/22    | Jialu |  |
-| 3/29   | Peiyao |  |
-| 4/5   | Weibin |  |
-| 4/12   |  Zhengling  | |
+| 3/22    | David|  |
+| 3/29   |Jialu|  |
+| 4/5   | Peiyao |  |
+| 4/12   |  Weibin | |
 | 4/19    | No Meeting | Good Friday |
-| 4/26    | Jianyu |          |
-| 5/3    | Haodong |       |
-| 5/10    | Yiyun |        |
+| 4/26    | Zhengling|          |
+| 5/3    | Jianyu|       |
+| 5/10    |Haodong |        |
 
