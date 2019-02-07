@@ -17,7 +17,7 @@ Note that the time for the job talks in the first three weeks is 3:30 pm - 4:30 
 | 1/18    | Job Talk   |  [https://stat-or.unc.edu/event/stor-colloquium-vince-lyzinski](https://stat-or.unc.edu/event/stor-colloquium-vince-lyzinski) |
 | 1/25    | Job Talk | [https://stat-or.unc.edu/event/stor-colloquium-geoffrey-schiebinger](https://stat-or.unc.edu/event/stor-colloquium-geoffrey-schiebinger) |
 | 2/1    | No Meeting | Cancelled | 
-| 2/8    |  Jianyu |       |
+| 2/8    |  Jianyu |[Graph Estimation for Matrix-variate Gaussian Data]({{ site.url }}/paper/Graph Estimation for Matrix-variate Gaussian Data - Chen_Liu_2017.pdf)   |
 | 2/15    | Haodong|       |
 | 2/22   |  Yiyun ||
 | 3/1   |Yiwei | |
