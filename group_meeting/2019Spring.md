@@ -18,17 +18,17 @@ Note that the time for the job talks in the first three weeks is 3:30 pm - 4:30 
 | 1/25    | Job Talk | [https://stat-or.unc.edu/event/stor-colloquium-geoffrey-schiebinger](https://stat-or.unc.edu/event/stor-colloquium-geoffrey-schiebinger) |
 | 2/1    | No Meeting | Cancelled | 
 | 2/8    |  Jianyu |[Graph Estimation for Matrix-variate Gaussian Data]({{ site.url }}/paper/Graph Estimation for Matrix-variate Gaussian Data - Chen_Liu_2017.pdf)   |
-| 2/15    | Haodong|       |
-| 2/22   |  Yiyun ||
-| 3/1   |Yiwei | |
-| 3/8   |  Zhengling||
+| 2/15    | Job Talk |  [https://stat-or.unc.edu/event/graduate-student-seminar-haipeng-gao](https://stat-or.unc.edu/event/graduate-student-seminar-haipeng-gao)     |
+| 2/22   | Haodong |[CARS: Covariate Assisted Ranking and Screening for Large-Scale Two-Sample Inference]({{ site.url }}/paper/CARS.pdf)   |
+| 3/1   |Yiyun| |
+| 3/8   |  Yiwei||
 | 3/15    |  No Meeting  | Spring Break |
-| 3/22    | David|  |
-| 3/29   |Jialu|  |
-| 4/5   | Peiyao |  |
-| 4/12   |  Weibin | |
+| 3/22    | Zhengling|  |
+| 3/29   |David|  |
+| 4/5   | Jialu |  |
+| 4/12   |  Peiyao | |
 | 4/19    | No Meeting | Good Friday |
-| 4/26    | Zhengling|          |
-| 5/3    | Jianyu|       |
-| 5/10    |Haodong |        |
+| 4/26    | Weibin|          |
+| 5/3    | Zhengling|       |
+| 5/10    | Jianyu |        |
 
