@@ -20,7 +20,7 @@ Note that the time for the job talks in the first three weeks is 3:30 pm - 4:30 
 | 2/8    |  Jianyu |[Graph Estimation for Matrix-variate Gaussian Data]({{ site.url }}/paper/Graph Estimation for Matrix-variate Gaussian Data - Chen_Liu_2017.pdf)   |
 | 2/15    | Job Talk |  [https://stat-or.unc.edu/event/graduate-student-seminar-haipeng-gao](https://stat-or.unc.edu/event/graduate-student-seminar-haipeng-gao)     |
 | 2/22   | Haodong |[CARS: Covariate Assisted Ranking and Screening for Large-Scale Two-Sample Inference]({{ site.url }}/paper/CARS.pdf)   |
-| 3/1   |Yiyun| |
+| 3/1   |Yiyun|[Spectral Deconfounding and Perturbed Sparse Linear Models]({{ site.url }}/paper/Spectral Deconfounding and Perturbed Sparse Linear Models.pdf) |
 | 3/8   |  Yiwei||
 | 3/15    |  No Meeting  | Spring Break |
 | 3/22    | Zhengling|  |
