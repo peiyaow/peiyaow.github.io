@@ -23,12 +23,12 @@ Note that the time for the job talks in the first three weeks is 3:30 pm - 4:30 
 | 3/1   |Yiyun|[Spectral Deconfounding and Perturbed Sparse Linear Models]({{ site.url }}/paper/Spectral Deconfounding and Perturbed Sparse Linear Models.pdf) |
 | 3/8   |  Yiwei|Project Update| 
 | 3/15    |  No Meeting  | Spring Break |
-| 3/22    | David|  |
+| 3/22    | Jianyu | Defense Practice |
 | 3/29   |Zhengling|  |
-| 4/5   | Jialu |  |
-| 4/12   |  Peiyao | |
+| 4/5   | David |  |
+| 4/12   |  Jialu | |
 | 4/19    | No Meeting | Good Friday |
-| 4/26    | Weibin|          |
-| 5/3    | Zhengling|       |
-| 5/10    | Jianyu |        |
+| 4/26    | Peiyao |          |
+| 5/3    | Weibin |       |
+| 5/10    | Zhengling |        |
 
