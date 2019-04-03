@@ -25,10 +25,10 @@ Note that the time for the job talks in the first three weeks is 3:30 pm - 4:30 
 | 3/15    |  No Meeting  | Spring Break |
 | 3/22    | Jianyu | Defense Practice |
 | 3/29   |Zhengling| Some Topics in Causal Inference |
-|        |         |[paper1]:({{ site.url }}/paper/TOPICS IN CAUSAL AND HIGH DIMENSIONAL INFERENCE.pdf) |
-|        |         |[paper2]:({{ site.url }}/paper/Approximate Residual Balancing- De-Biased Inference of Average Treatment Effects in High Dimensions.pdf)| 
-|        |         |[paper3]:({{ site.url }}/paper/Bias-Reduced Doubly Robust Estimati.pdf) |
-|        |         |[paper4]:({{ site.url }}/paper/DoubleDebiased Machine Learning for Treatment and Structural Parameters.pdf) |
+|        |         |[TOPICS IN CAUSAL AND HIGH DIMENSIONAL INFERENCE]({{ site.url }}/paper/TOPICS IN CAUSAL AND HIGH DIMENSIONAL INFERENCE.pdf) |
+|        |         |[Approximate Residual Balancing: De-Biased Inference of Average Treament Effects in High Dimensions]({{ site.url }}/paper/Approximate Residual Balancing- De-Biased Inference of Average Treatment Effects in High Dimensions.pdf)| 
+|        |         |[Bias-Reduced Doubly Robust Estimation]({{ site.url }}/paper/Bias-Reduced Doubly Robust Estimati.pdf) |
+|        |         |[Double/Debiased Machine Learning for Treatment and Structural Parameters]({{ site.url }}/paper/DoubleDebiased Machine Learning for Treatment and Structural Parameters.pdf) |
 | 4/5   | David | [Reducing the Dimensionality of Data with Neural Networks]({{ site.url }}/paper/Hinton Reducing the Dimensionality.pdf) |
 | 4/12   |  Jialu | |
 | 4/19    | No Meeting | Good Friday |
