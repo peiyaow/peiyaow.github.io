@@ -24,8 +24,7 @@ Note that the time for the job talks in the first three weeks is 3:30 pm - 4:30 
 | 3/8   |  Yiwei|Project Update| 
 | 3/15    |  No Meeting  | Spring Break |
 | 3/22    | Jianyu | Defense Practice |
-| 3/29   |Zhengling| Some Topics in Causal Inference |
-|        |         |[TOPICS IN CAUSAL AND HIGH DIMENSIONAL INFERENCE]({{ site.url }}/paper/TOPICS IN CAUSAL AND HIGH DIMENSIONAL INFERENCE.pdf) |
+| 3/29   |Zhengling|[TOPICS IN CAUSAL AND HIGH DIMENSIONAL INFERENCE]({{ site.url }}/paper/TOPICS IN CAUSAL AND HIGH DIMENSIONAL INFERENCE.pdf) |
 |        |         |[Approximate Residual Balancing: De-Biased Inference of Average Treament Effects in High Dimensions]({{ site.url }}/paper/Approximate Residual Balancing- De-Biased Inference of Average Treatment Effects in High Dimensions.pdf)| 
 |        |         |[Bias-Reduced Doubly Robust Estimation]({{ site.url }}/paper/Bias-Reduced Doubly Robust Estimati.pdf) |
 |        |         |[Double/Debiased Machine Learning for Treatment and Structural Parameters]({{ site.url }}/paper/DoubleDebiased Machine Learning for Treatment and Structural Parameters.pdf) |
