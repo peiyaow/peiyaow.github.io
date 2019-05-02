@@ -33,5 +33,5 @@ Note that the time for the job talks in the first three weeks is 3:30 pm - 4:30 
 | 4/19    | No Meeting | Good Friday |
 | 4/26    | Peiyao |    Prelim Practice      |
 | 5/3    | Jialu |   [INDIVIDUALIZED MULTI-DIRECTIONAL VARIABLE SELECTION]({{ site.url }}/paper/INDIVIDUALIZED MULTI-DIRECTIONAL VARIABLE SELECTION.pdf)    |
-| 5/10    | Weibin |        |
+<!---| 5/10    | Weibin |        | -->
 
