@@ -10,7 +10,7 @@ I am a fourth year Ph.D. candidate in the [Department of Statistics and Operati
 
 Most of my work are driven from applications in the real world. I currently work as a research assistant in the [IDEA Group](https://www.med.unc.edu/bric/ideagroup) at [UNC School of Medicine](http://www.med.unc.edu/). Basically, I focus on statistical modeling of heterogeneous data driven from the study of Alzheimer's Disease. On the methodology side, my research interests include nonparametric statistics and high dimensional data analysis. 
 
-I am currently the organizer of Professor Liu's group meeting website. In the group meeting, we present our research progress or interesting recent papers. Please take a look at the [list of presentations]({{ site.url }}/group_meeting/2019Spring) in the current semester if you are interested.
+I am currently the organizer of Professor Liu's group meeting website. In the group meeting, the group members present on their research progress or interesting recent papers. Please take a look at the [list of presentations]({{ site.url }}/group_meeting/2019Spring) in the current semester if you are interested.
 
 In my spare time, I enjoy working out and traveling. I also have a passion on playing the ukulele.
 
