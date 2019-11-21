@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" width="270px" align="right" %}
 
-I am a fourth year Ph.D. candidate in the [Department of Statistics and Operations Research](http://stat-or.unc.edu/) at [University of North Carolina at Chapel Hill](http://unc.edu/), under the supervision of Professor [Yufeng Liu](http://www.unc.edu/~yfliu/) and Professor [Dinggang Shen](https://www.med.unc.edu/radiology/copy_of_faculty-overview/shen/). Prior to UNC, I received a B.S. in Mathematics and Applied Mathematics From Fudan University, China in 2015.
+I am a fifth year Ph.D. candidate in the [Department of Statistics and Operations Research](http://stat-or.unc.edu/) at [University of North Carolina at Chapel Hill](http://unc.edu/), under the supervision of Professor [Yufeng Liu](http://www.unc.edu/~yfliu/) and Professor [Dinggang Shen](https://www.med.unc.edu/radiology/copy_of_faculty-overview/shen/). Prior to UNC, I received a B.S. in Mathematics and Applied Mathematics From Fudan University, China in 2015.
 
 Most of my work are driven from applications in the real world. I currently work as a research assistant in the [IDEA Group](https://www.med.unc.edu/bric/ideagroup) at [UNC School of Medicine](http://www.med.unc.edu/). Basically, I focus on statistical modeling of heterogeneous data driven from the study of Alzheimer's Disease. On the methodology side, my research interests include nonparametric statistics and high dimensional data analysis. 
 
