@@ -3,14 +3,22 @@
 ---
 @charset "utf-8";
 
-$base-font-family: 'EB Garamond', serif;
-$base-font-size:   x-large;
+$font-weight-normal: 200;
+$font-weight-bold:   600;
+
+$base-font-family: "Source Sans Pro", "Lato", -apple-system, "San Francisco", "Helvetica Neue", Helvetica, Roboto, "Segoe UI", "Segoe WP", Arial, Ubuntu, sans-serif;
+$base-font-size:   13pt;
+$base-line-height: 1.5;
+
+$heading-font-family: $base-font-family;
+$heading-font-size:   16pt;
+$heading-line-height: 1.5;
+
 $small-font-size:  0.875em;
 $vsmall-font-size: 0.66em;
-$base-line-height: 1.5;
 $spacing-unit:     1.5em;
 
-$grey-vlight:#eee;
+$grey-vlight:#fefefe;
 $grey-light: #ccc;
 $grey:       #888;
 $grey-dark:  #444;
@@ -52,35 +60,3 @@ $desktop:          50em;
     "syntax-highlighting",
     "fancy-image"
 ;
-
-table {
-  table-layout: fixed;
-  width: 100%;
-  white-space: nowrap;
-} 
-
-thead th:nth-child(1) {
-  width: 7%;
-}
-
-thead th:nth-child(2) {
-  width: 13%;
-}
-
-thead th:nth-child(3) {
-  width: 80%;
-}
-// 
-// .row-Date {
-//   width: 5%;
-// }
-// 
-// .row-Name {
-//   width: 10%;
-// }
-// 
-// .row-Presentation {
-//   width: 80%;
-// }
-
-

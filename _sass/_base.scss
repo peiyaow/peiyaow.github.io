@@ -12,8 +12,9 @@ html {
 
 // Basic styling
 body {
-    font-family: Avenir;
-    font-size:   16px;  
+    font-family: $base-font-family;
+    font-weight: $font-weight-normal;
+    font-size:   $base-font-size;
     line-height: $base-line-height;
     color:       $text-color;
     background-color: $background;
@@ -21,13 +22,27 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+// bold elements
+strong {
+    font-weight: $font-weight-bold;
+}
+
+//  Headings
+h1, h2, h3, h4, h5, h6 {
+    font-family: $heading-font-family;
+    font-weight: $font-weight-bold;
+    font-size:   $heading-font-size;
+    line-height: $heading-line-height;
+    color:       $text-color;
+    text-transform: uppercase;
+}
 
 // Set `margin-bottom` to maintain vertical rhythm
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit/2;
+    margin-bottom: 0; //$spacing-unit/2;
 }
 
 hr {
@@ -36,7 +51,6 @@ hr {
     border-style: inset;
     border-top: 1px solid $line-color;
     border-bottom: none;
-
 }
 
 // Images
@@ -64,12 +78,8 @@ li {
     > ul,
     > ol {
          margin-bottom: 0;
+         margin-top:    0;
     }
-}
-
-//  Headings
-h1, h2, h3, h4, h5, h6 {
-    font-weight: bold;
 }
 
 // Links
@@ -78,7 +88,6 @@ a {
     text-decoration: none;
     &:hover {
         color: $url-hover-color;
-        text-decoration: none;
     }
 }
 
