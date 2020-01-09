@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /group_meeting/2019Fall
-title: 2019 Fall
+permalink: /group_meeting/2020Spring
+title: 2020 Spring
 ---
 
 Location: GSB 4101 
