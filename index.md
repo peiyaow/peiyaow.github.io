@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo1.jpg" caption="" width="270px" align="right" %}
+{% include image.html url="images/photo.jpg" caption="" width="270px" align="right" %}
 
 I am a fifth year Ph.D. candidate in the [Department of Statistics and Operations Research](http://stat-or.unc.edu/) at [University of North Carolina at Chapel Hill](http://unc.edu/), under the supervision of Professor [Yufeng Liu](http://www.unc.edu/~yfliu/) and Professor [Dinggang Shen](https://www.med.unc.edu/radiology/copy_of_faculty-overview/shen/). Prior to UNC, I received a B.S. in Mathematics and Applied Mathematics From Fudan University, China in 2015.
 
