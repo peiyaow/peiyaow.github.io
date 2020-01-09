@@ -1,17 +1,17 @@
 title: Peiyao Wang
 description: Peiyao Wang's webpage
-sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
+sourcecode: "https://github.com/peiyaow/peiyaow.github.io"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
-url: "http://peiyaow.github.io"     # the base hostname & protocol for your site
-#baseurl: "/"                   # the subpath of your site, e.g. /blog
+url: ""     # the base hostname & protocol for your site
+baseurl: ""                   # the subpath of your site, e.g. /blog
 
-author:
-    name:
-    facebook:
-    scholar:
+#author:
+#    name:
+#    facebook:
+#    scholar:
 
 # Build settings
 markdown: kramdown
@@ -22,10 +22,10 @@ highlighter: rouge
 # Set 'provider' to false to turn analytics off globally.
 #
 analytics:
-    provider:
+    provider: statcounter
     statcounter:
-        sc_project  :
-        sc_security :
+        sc_project  : 5896371
+        sc_security : a84acdc5
         sc_invisible: 1
         sc_text     : 2
     google:
