@@ -24,8 +24,8 @@ highlighter: rouge
 analytics:
     provider: statcounter
     statcounter:
-        sc_project  : 5896371
-        sc_security : a84acdc5
+        sc_project  : 
+        sc_security : 
         sc_invisible: 1
         sc_text     : 2
     google:
