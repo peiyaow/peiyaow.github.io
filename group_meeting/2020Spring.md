@@ -8,23 +8,23 @@ Location: GSB 4101
 
 Time: 3:00 - 4:30pm
 
-| Date    | Name       | Presentation |
-| :----   | :----------|:--------     |
-|  1/10   |	Job Talk   | [On the Robustness of Machine Learning Systems](https://stat-or.unc.edu/event/stor-colloquium-yao-li-uc-davis)		  |
-|  1/17	  |	 Hui       |	[CHIME: CLUSTERING OF HIGH-DIMENSIONAL GAUSSIAN MIXTURES WITH EM ALGORITHM AND ITS OPTIMALITY]({{site.url}}/paper/CHIME.pdf) |
-|  1/24   |	Job Talk   |	[Statistical Analysis of Brain Structural Connectomes](https://stat-or.unc.edu/event/stor-computational-med-colloquium-zhengwu-zhang-university-of-rochester)|
-|  1/31   | Job Talk   | [Bidimensional Linked Matrix Decomposition for Pan-Omics Pan-Cancer Analysis](https://stat-or.unc.edu/event/stor-colloquium-eric-lock-university-of-minnesota) |
-|  2/7    |	No Meeting | Yufeng Out of Town|
-|  2/14   | Jose     |       |
-|  2/21   |	Haodong  | |
-|  2/28   |	Yiyun    ||
-|  3/6  |	Peiyao   ||
-|  3/13 |	No Meeting |	Spring Break   |
-|  3/20  |	Daiqi    |  |
-|  3/27  |	Hui      ||
-|  4/3  |	Jose     | |
-|  4/10  | No Meeting  |Good Friday |
-|  4/17  |	Weibin   ||
-|  4/24   | Haodong  | |
-|  5/1   |	 Yiyun  | |
-|  5/8   |	 Peiyao  |  |
+| Date    || Name       || Presentation |
+| :----   || :--------------||:------------ |
+|  1/10   ||	Job Talk   || [On the Robustness of Machine Learning Systems](https://stat-or.unc.edu/event/stor-colloquium-yao-li-uc-davis)		  |
+|  1/17	  ||	 Hui       ||	[CHIME: CLUSTERING OF HIGH-DIMENSIONAL GAUSSIAN MIXTURES WITH EM ALGORITHM AND ITS OPTIMALITY]({{site.url}}/paper/CHIME.pdf) |
+|  1/24   ||	Job Talk   ||	[Statistical Analysis of Brain Structural Connectomes](https://stat-or.unc.edu/event/stor-computational-med-colloquium-zhengwu-zhang-university-of-rochester)|
+|  1/31   || Job Talk   || [Bidimensional Linked Matrix Decomposition for Pan-Omics Pan-Cancer Analysis](https://stat-or.unc.edu/event/stor-colloquium-eric-lock-university-of-minnesota) |
+|  2/7    ||	No Meeting || Yufeng Out of Town|
+|  2/14   || Jose     ||       |
+|  2/21   ||	Haodong  || |
+|  2/28   ||	Yiyun    |||
+|  3/6  ||	Peiyao   |||
+|  3/13 ||	No Meeting ||	Spring Break   |
+|  3/20  ||	Daiqi   ||  |
+|  3/27  ||	Hui      |||
+|  4/3  ||	Jose     || |
+|  4/10  || No Meeting  ||Good Friday |
+|  4/17  ||	Weibin   |||
+|  4/24   || Haodong  || |
+|  5/1   ||	 Yiyun || |
+|  5/8  ||	 Peiyao  ||  |
