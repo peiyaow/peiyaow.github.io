@@ -1,8 +1,8 @@
 - title: "Yufeng's Group Meeting"
-  href: "./"
+  href: "./group_meeting/"
   subcategories:
     - subtitle: "2018 Fall"
-      subhref: "/group_meeting//2018Fall"
+      subhref: "/group_meeting/2018Fall"
     - subtitle: "2019 Spring"
       subhref: "/group_meeting/2019Spring"
     - subtitle: "2019 Fall"
