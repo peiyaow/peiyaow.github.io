@@ -15,7 +15,7 @@ Time: 3:00 - 4:30pm
 |  1/24   ||	Job Talk   ||	[Statistical Analysis of Brain Structural Connectomes](https://stat-or.unc.edu/event/stor-computational-med-colloquium-zhengwu-zhang-university-of-rochester)|
 |  1/31   || Job Talk   || [Bidimensional Linked Matrix Decomposition for Pan-Omics Pan-Cancer Analysis](https://stat-or.unc.edu/event/stor-colloquium-eric-lock-university-of-minnesota) |
 |  2/7    ||	No Meeting || Yufeng Out of Town|
-|  2/14   || Jose     ||       |
+|  2/14   || Jose     ||   [Marginal Singularity, and the Benefits of Labels in Covariate-Shift]({{site.url}}/paper/Marginal Singularity, and the Benefits of Labels in Covariate-Shift.pdf)     |
 |  2/21   ||	Haodong  || |
 |  2/28   ||	Yiyun    |||
 |  3/6  ||	Peiyao   |||
