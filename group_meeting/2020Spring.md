@@ -6,7 +6,7 @@ title: 2020 Spring
 
 Location: GSB 4101 
 
-Time: 3:00 - 4:30pm
+Time: 3:00 - 4:00pm
 
 | Date    || Name       || Presentation |
 | :----   || :----------------------||:------------ |
