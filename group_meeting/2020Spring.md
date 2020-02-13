@@ -16,15 +16,15 @@ Time: 3:00 - 4:30pm
 |  1/31   || Job Talk   || [Bidimensional Linked Matrix Decomposition for Pan-Omics Pan-Cancer Analysis](https://stat-or.unc.edu/event/stor-colloquium-eric-lock-university-of-minnesota) |
 |  2/7    ||	No Meeting || Yufeng Out of Town|
 |  2/14   || Jose     ||   [Marginal Singularity, and the Benefits of Labels in Covariate-Shift]({{site.url}}/paper/Marginal Singularity, and the Benefits of Labels in Covariate-Shift.pdf)     |
-|  2/21   ||	Haodong  || |
-|  2/28   ||	Yiyun    |||
-|  3/6  ||	Peiyao   |||
+|  2/21   ||	Weibin  || |
+|  2/28   ||	Haodong    |||
+|  3/6  ||	Yiyun   |||
 |  3/13 ||	No Meeting ||	Spring Break   |
-|  3/20  ||	Daiqi   ||  |
-|  3/27  ||	Hui      |||
-|  4/3  ||	Jose     || |
+|  3/20  ||	Peiyao   ||  |
+|  3/27  ||	Daiqi      |||
+|  4/3  ||	Hui     || |
 |  4/10  || No Meeting  ||Good Friday |
-|  4/17  ||	Weibin   |||
-|  4/24   || Haodong  || |
-|  5/1   ||	 Yiyun || |
-|  5/8  ||	 Peiyao  ||  |
+|  4/17  ||	Jose   |||
+|  4/24   || Weibin  || |
+|  5/1   ||	 Haodong || |
+|  5/8  ||	 Yiyun  ||  |
