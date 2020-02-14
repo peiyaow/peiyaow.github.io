@@ -11,8 +11,8 @@ Time: 3:00 - 4:00pm
 | Date    | Name       | Presentation |
 | :----   | :----------------------|:------------ |
 |  1/10   |	Job Talk   | [On the Robustness of Machine Learning Systems](https://stat-or.unc.edu/event/stor-colloquium-yao-li-uc-davis)		  |
-|  1/17	  |	 Hui       |	[CHIME: CLUSTERING OF HIGH-DIMENSIONAL GAUSSIAN MIXTURES WITH EM ALGORITHM AND ITS OPTIMALITY]({{site.url}}/paper/CHIME.pdf) |
-|  1/24   |	Job Talk   |	[Statistical Analysis of Brain Structural Connectomes](https://stat-or.unc.edu/event/stor-computational-med-colloquium-zhengwu-zhang-university-of-rochester)|
+|  1/17	  |	 Hui       | [Chime: Clustering of High-dimensional Gaussian Mixtures With Em Algorithm and Its Optimality]({{site.url}}/paper/CHIME.pdf) |
+|  1/24   |	Job Talk   | [Statistical Analysis of Brain Structural Connectomes](https://stat-or.unc.edu/event/stor-computational-med-colloquium-zhengwu-zhang-university-of-rochester)|
 |  1/31   | Job Talk   | [Bidimensional Linked Matrix Decomposition for Pan-Omics Pan-Cancer Analysis](https://stat-or.unc.edu/event/stor-colloquium-eric-lock-university-of-minnesota) |
 |  2/7    | No Meeting | Yufeng Out of Town|
 |  2/14   | Jose     |   [Marginal Singularity, and the Benefits of Labels in Covariate-Shift]({{site.url}}/paper/Marginal Singularity, and the Benefits of Labels in Covariate-Shift.pdf)     |
