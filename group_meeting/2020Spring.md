@@ -17,7 +17,7 @@ Time: 3:00 - 4:00pm
 |  2/7    | No Meeting | Yufeng Out of Town|
 |  2/14   | Jose     |   [Marginal Singularity, and the Benefits of Labels in Covariate-Shift]({{site.url}}/paper/Marginal Singularity, and the Benefits of Labels in Covariate-Shift.pdf)     |
 |  2/21   |	Weibin  | Prelim Practice |
-|  2/28   |	Haodong    ||
+|  2/28   |	Haodong |  [MATRIX RECOVERY VIA RANK-ONE PROJECTIONS]({{site.url}}/paper/ROP.pdf) |
 |  3/6  |	Yiyun   ||
 |  3/13 |	No Meeting |	Spring Break   |
 |  3/20  |	Peiyao   |  |
