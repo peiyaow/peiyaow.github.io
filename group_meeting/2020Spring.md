@@ -7,6 +7,7 @@ title: 2020 Spring
 Location: GSB 4101 
 
 Time: 3:00 - 4:00pm
+Zoom URL: [https://unc.zoom.us/j/725834751](https://unc.zoom.us/j/725834751) 
 
 | Date    | Name       | Presentation |
 | :----   | :----------------------|:------------ |
@@ -20,11 +21,11 @@ Time: 3:00 - 4:00pm
 |  2/28   |	Haodong |  [MATRIX RECOVERY VIA RANK-ONE PROJECTIONS]({{site.url}}/paper/ROP.pdf) |
 |  3/6  |	Yiyun   | Research Update |
 |  3/13 |	No Meeting |	Spring Break   |
-|  3/20  |	Peiyao   |  |
-|  3/27  |	Daiqi      ||
-|  4/3  |	Hui     | |
+|  3/20  |	No Meeting   | Spring Break |
+|  3/27  |	Peiyao      ||
+|  4/3  |	Daiqi     | |
 |  4/10  | No Meeting  |Good Friday |
-|  4/17  |	Jose   ||
-|  4/24   | Weibin  | |
-|  5/1   |	 Haodong | |
-|  5/8  |	 Yiyun  |  |
+|  4/17  |	Hui   ||
+|  4/24   | Jose  | |
+|  5/1   |	 Weibin | |
+|  5/8  |	 Haodong  |  |
