@@ -24,7 +24,7 @@ Zoom URL: [https://unc.zoom.us/j/725834751](https://unc.zoom.us/j/725834751)
 |  3/13 |	No Meeting |	Spring Break   |
 |  3/20  |	No Meeting   | Spring Break |
 |  3/27  |	Peiyao      |[Fused Lasso Approach in Regression Coefficients Clustering – Learning Parameter Heterogeneity in Data Integration]({{site.url}}/paper/fusedlasso.pdf)|
-|  4/3  |	Daiqi     | |
+|  4/3  |	Daiqi     | [BATCHED BANDIT PROBLEMS]({{site.url}}/paper/bbp.pdf)|
 |  4/10  | No Meeting  |Good Friday |
 |  4/17  |	Hui   ||
 |  4/24   | Jose  | |
