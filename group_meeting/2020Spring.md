@@ -26,7 +26,7 @@ Zoom URL: [https://unc.zoom.us/j/725834751](https://unc.zoom.us/j/725834751)
 |  3/27  |	Peiyao      |[Fused Lasso Approach in Regression Coefficients Clustering – Learning Parameter Heterogeneity in Data Integration]({{site.url}}/paper/fusedlasso.pdf)|
 |  4/3  |	Daiqi     | [BATCHED BANDIT PROBLEMS]({{site.url}}/paper/bbp.pdf)|
 |  4/10  | No Meeting  |Good Friday |
-|  4/17  |	Hui   | [Estimation of the false discovery proportion withunknown dependence](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssb.12204) |
+|  4/17  |	Hui   | [Estimation of the false discovery proportion with unknown dependence](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssb.12204) |
 |  4/24   | Jose  | |
 |  5/1   |	 Weibin | |
 |  5/8  |	 Haodong  |  |
