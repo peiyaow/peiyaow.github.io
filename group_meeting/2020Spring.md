@@ -28,5 +28,5 @@ Zoom URL: [https://unc.zoom.us/j/725834751](https://unc.zoom.us/j/725834751)
 |  4/10  | No Meeting  |Good Friday |
 |  4/17  |	Hui   | [Estimation of the false discovery proportion with unknown dependence](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssb.12204) |
 |  4/24   | Jose  | [Estimating sparse networks with hubs](https://arxiv.org/pdf/1904.09394.pdf)|
-|  5/1   |	 Weibin | |
+|  5/1   |	 Weibin | [Covariate balancing propensity score by tailored loss functions]({{site.url}}/paper/Covariate balancing propensity score by tailored loss functions.pdf)|
 |  5/8  |	 Haodong  |  |
